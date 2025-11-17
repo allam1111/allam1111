@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="50"> 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Workspace"/> <br>
@@ -16,8 +16,43 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=MohamedAllam&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MohamedAllam&count_bg=%2379C83D&title_bg=%23555555)
 
-[![telegram badge](https://img.shields.io/badge/Contact_Me-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUser)  
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK_HERE">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -26,10 +61,10 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git)
@@ -40,8 +75,8 @@
 // my tools — organized section
 class AboutMe {
   final myTools = {
-    "ProgrammingLanguages": {"Python", "C++", "JavaScript", "Dart"},
-    "OtherLanguages": {"HTML", "CSS", "Markdown", "JSON"},
+    "ProgrammingLanguages": {"Python", "C++", "JavaScript", "Dart", "HTML", "CSS"},
+    "OtherLanguages": {"Markdown", "JSON"},
     "Database": {"Firebase", "SQLite"},
     "Editors": {"VSCode", "Sublime", "Neovim"},
     "Platforms": {"Linux", "Windows"},
