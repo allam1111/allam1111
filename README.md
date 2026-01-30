@@ -7,16 +7,29 @@
 <h1>👋 Mohamed Allam</h1>
 <h3>💻 Web Developer | 🤖 AI Engineer</h3>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<!-- Social Buttons -->
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 - 🎓 AI Engineering student  
-- 🌐 Web Developer (Frontend focused)
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🐧 Linux & Terminal lover  
-- 🎥 Sharing programming & tech content on YouTube  
+- 🌐 Web Developer  
+- 🤖 AI & Machine Learning enthusiast  
+- 🐧 Linux user  
+- 🎥 Tech content creator on YouTube  
 
 ---
 
@@ -39,8 +52,5 @@
 class MohamedAllam:
     def __init__(self):
         self.roles = ["Web Developer", "AI Engineer"]
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.interests = ["AI", "Machine Learning", "Web Apps", "Linux"]
-        self.tools = ["Git", "VS Code", "Figma", "Firebase"]
-
-me = MohamedAllam()
+        self.stack = ["Python", "JavaScript", "HTML", "CSS"]
+        self.interests = ["AI", "Machine Learning", "Linux"]
