@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 - 🎓 AI Engineering student  
-- 🌐 Web Developer (Frontend & Logic)
+- 🌐 Web Developer 
 - 🤖 Interested in **AI & Machine Learning**
 - 🐧 Linux user & terminal lover  
 - 🎥 Sharing programming & tech content on YouTube  
