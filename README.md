@@ -7,17 +7,17 @@
 <h1>👋 Mohamed Allam</h1>
 <h3>💻 Web Developer | 🤖 AI Engineer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=allam1111&style=for-the-badge&color=orange&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@allam_tech">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/allam1111">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/allam1111">
   <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram"/>
 </a>
 
